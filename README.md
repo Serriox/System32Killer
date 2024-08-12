@@ -2,6 +2,6 @@
 The REAL System32 killer
 
 ## How to use?
-- Run the .py file as administrator
-- Wait a few seconds
-- Done!
+1. Run the .py file as administrator
+2. Wait a few seconds
+3. Done!
